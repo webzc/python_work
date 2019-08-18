@@ -14,9 +14,9 @@
 如果你已有python基础或者达到了代码神的级别
 欢迎向我提建议！
 我郑重承诺
-*绝对开源，盗版不纠
-*代码出错，积极改正
-*纯粹python，微涉js
+* 绝对开源，盗版不纠
+* 代码出错，积极改正
+* 纯粹python，微涉js
 
 ## 获取代码
 ```shell
@@ -30,4 +30,5 @@ www.python.org
 pip install pygame
 pip install pypiwin32
 pip install turtle 
+pip install wechat_sender 
 ```
