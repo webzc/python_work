@@ -1,0 +1,6 @@
+这个工具只能在windows系统中使用 ！
+先下载必要工具:
+*到官网下载python3
+cmd执行命令pip install pypiwin32
+*把QQ联系人单独开一个对话框，放在屏幕中央
+...执行此程序
