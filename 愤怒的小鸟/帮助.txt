@@ -1,0 +1,4 @@
+先下载pygame
+如果是linux:pip install pygame 或者 sudo apt-get install python-pygame 
+如果是windows:pip3 install pygame
+下载完成以后直接运行程序...
