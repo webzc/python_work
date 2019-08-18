@@ -25,7 +25,7 @@ git clone https://github.com/dgklpd/python_work.git
 www.python.org
 
 ## 下载pip包
-```shell
+```python
 pip install pygame
 pip install pypiwin32
 pip install turtle 
