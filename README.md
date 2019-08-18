@@ -17,11 +17,11 @@
 *代码出错，积极改正
 *纯粹python，微涉js
 
-### 获取代码
+## 获取代码
 ```shell
 git clone https://github.com/dgklpd/python_work.git
 ```
-##python官网
+## python官网
 www.python.org
 
 ## 下载pip包
