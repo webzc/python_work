@@ -12,7 +12,7 @@ screen = pygame.display.set_mode((1800, 700))
 screen.fill((255,255,255))
 
 #设置窗口标题
-pygame.display.set_caption("飞机大战")
+pygame.display.set_caption("弹力球")
 
 #加载图片
 enemy1=pygame.image.load("images/ball.png")
